@@ -34,6 +34,18 @@ public class CalculatorApplication {
 		
 		return "Welcome to the Bikkad IT";
 	}
+	
+
+//stash demo
+	public String getMsgSecond()
+	{
+		
+		return "Welcome to the Bikkad IT";
+	}
+	
+	
+	
+	
 
 	public String getMsgthird()
 	{
