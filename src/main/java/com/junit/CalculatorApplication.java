@@ -35,4 +35,9 @@ public class CalculatorApplication {
 		return "Welcome to the Bikkad IT";
 	}
 
+	public String getMsgthird()
+	{
+		
+		return "Welcome to the Bikkad IT";
+	}
 }
