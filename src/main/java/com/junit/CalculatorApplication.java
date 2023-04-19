@@ -25,6 +25,14 @@ public class CalculatorApplication {
 		
 		
 		
+		
+		
+	}
+
+	public String getMsgfirst()
+	{
+		
+		return "Welcome to the Bikkad IT";
 	}
 
 }

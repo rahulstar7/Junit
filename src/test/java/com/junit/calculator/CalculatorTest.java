@@ -81,15 +81,7 @@ class CalculatorTest {
 		
 		assertEquals(expectedresult, actualresult);
 	}
-	
-<<<<<<< Updated upstream
-	//this is the second comment
-=======
-	//this is the first comment
->>>>>>> Stashed changes
-	
-
-	
+		
 	
 	
 	
