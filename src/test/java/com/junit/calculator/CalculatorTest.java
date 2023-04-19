@@ -58,6 +58,11 @@ class CalculatorTest {
 		assertEquals(expectedresult, actualresult);
 	}
 	
+	public String getMsg()
+	{
+	  return "this is stash";
+	}
+	
 	
 	
 	
